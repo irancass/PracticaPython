@@ -1,0 +1,5 @@
+Datos de estudiantes y promedios:
+Iran: Calificaciones: [10.0, 10.0, 10.0] - Promedio: 10.00
+luis: Calificaciones: [9.0, 9.0, 9.0] - Promedio: 9.00
+
+Estudiante con el mejor promedio: Iran (10.00)
